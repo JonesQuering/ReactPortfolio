@@ -56,6 +56,17 @@ background: linear-gradient(to right, #0f3443, #34e89e); /* W3C, IE 10+/ Edge, F
   height: 250px;
   padding-top: 5em;
 }
+.aboutmeimage-img{
+  height: 350px;
+}
+.title h1{
+  font-family: 'Suez one', sans serif;
+}
+.aboutmepar p{
+ font-family: 'Bad Script', sans serif;
+ text-indent: 50px;
+ font-size: 20px;
+}
 .banner-text{
   background-color: black;
   opacity: .8;
@@ -90,4 +101,10 @@ background: linear-gradient(to right, #0f3443, #34e89e); /* W3C, IE 10+/ Edge, F
   color: white;
   font-size: 8em;
   padding: 8px;
+}
+
+.resume-right-col {
+background: #27221f;
+color: white;
+padding: 2em;
 }
